@@ -26,12 +26,10 @@ class LinkController extends Controller
             $date_second = $request->input('date_second');
             $count_links = Link::all()->where('banner_id', $banner_id)->whereBetween('created_at', [$date_first, $date_second])->count();
             $count_viewings = Viewing::all()->where('banner_id', $banner_id)->whereBetween('created_at', [$date_first, $date_second])->count();
-            $banner_tl = Banner::all()->where('id', $banner_id);
-            $banner_title = $banner_tl[0]->title;
-            Mail::send('emails.default', ['request' => $request, 'count_links' => $count_links, 'count_viewings' => $count_viewings, 'banner_title'=>$banner_title], function($message) use ($request, $count_viewings, $count_links, $banner_title) {
+            Mail::send('emails.default', ['request' => $request, 'count_links' => $count_links, 'count_viewings' => $count_viewings], function($message) use ($request, $count_viewings, $count_links) {
                 $message->from('test@my.mail', 'My_site');
                 $message->to($request->email);
-                $message->subject($request->subject, $count_viewings, $count_links, $banner_title);
+                $message->subject($request->subject, $count_viewings, $count_links);
             });
             $result = "Сообщение успешно отправлено!";
         }
