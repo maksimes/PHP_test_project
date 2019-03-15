@@ -25,3 +25,7 @@ Route::post('/sendmail/{banner_id}', 'LinkController@send');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
