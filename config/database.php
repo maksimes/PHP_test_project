@@ -1,6 +1,6 @@
 <?php
 
-$DATABASE_URL = parse_url('postgresql-objective-85831');
+$DATABASE_URL = parse_url(getenv('postgresql-objective-85831'));
 
 return [
 
@@ -60,7 +60,7 @@ return [
             'driver' => 'pgsql',
             'host' => $DATABASE_URL["host"],
             'port' => $DATABASE_URL["port"],
-            'database' => substr($DATABASE_URL["path"], 1),
+            'database' => ltrim($DATABASE_URL["path"], "/"),
             'username' => $DATABASE_URL["user"],
             'password' => $DATABASE_URL["pass"],
             'charset' => 'utf8',
