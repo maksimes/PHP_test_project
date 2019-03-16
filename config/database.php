@@ -1,6 +1,8 @@
 <?php
 
-$DATABASE_URL = parse_url(getenv('postgresql-objective-85831'));
+$DATABASE_URL = parse_url(getenv('postgres://igsgqhcupgatmw:360af87e407f51aefe84407cc0563bc05b398566
+fb541b065553cd9fff100184@ec2-54-197-232-203.compute-1.amazonaws.com:5432/dl2bt4p
+rmk4ae'));
 
 return [
 
