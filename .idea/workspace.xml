@@ -367,24 +367,6 @@
             <path>
               <item name="untitled6" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled6" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled6" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled6" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled6" type="462c0819:PsiDirectoryNode" />
               <item name="database" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -403,7 +385,7 @@
               <item name="untitled6" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="emails" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled6" type="b2602c69:ProjectViewProjectNode" />
@@ -542,7 +524,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104874000" />
+    <option name="totallyTimeSpent" value="105223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="47" width="1823" height="947" extended-state="0" />
