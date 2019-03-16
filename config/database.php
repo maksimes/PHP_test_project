@@ -60,7 +60,7 @@ return [
             'driver' => 'pgsql',
             'host' => $DATABASE_URL["host"],
             'port' => $DATABASE_URL["port"],
-            'database' => ltrim($DATABASE_URL["path"], "/"),
+            'database' => substr($DATABASE_URL["path"], 1),
             'username' => $DATABASE_URL["user"],
             'password' => $DATABASE_URL["pass"],
             'charset' => 'utf8',
