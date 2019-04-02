@@ -5,95 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ef601b7-2571-4880-b4c6-ead88de8b09e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/herokularavel/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/.env.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Console/Kernel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Exceptions/Handler.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Http/Controllers/Controller.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Http/Kernel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Http/Middleware/Authenticate.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Providers/AppServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Providers/AuthServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Providers/EventServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/Providers/RouteServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/app/User.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/artisan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/bootstrap/app.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/bootstrap/cache/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/config/app.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/config/auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/config/broadcasting.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/config/cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/config/database.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/config/filesystems.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/config/hashing.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/config/logging.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/config/mail.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/config/queue.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/config/services.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/config/session.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/config/view.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/database/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/database/factories/UserFactory.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/database/seeds/DatabaseSeeder.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/phpunit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/public/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/public/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/public/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/public/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/public/web.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/resources/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/resources/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/resources/js/components/ExampleComponent.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/resources/lang/en/auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/resources/lang/en/pagination.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/resources/lang/en/passwords.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/resources/lang/en/validation.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/resources/sass/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/resources/sass/app.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/routes/api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/routes/channels.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/routes/console.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/routes/web.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/server.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/storage/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/storage/app/public/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/storage/framework/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/storage/framework/cache/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/storage/framework/cache/data/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/storage/framework/sessions/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/storage/framework/testing/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/storage/framework/views/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/storage/logs/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/tests/CreatesApplication.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/tests/Feature/ExampleTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/tests/TestCase.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/tests/Unit/ExampleTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/herokularavel/webpack.mix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/_layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/_layout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/emails/send_result.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/emails/send_result.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,22 +20,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/LinkController.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/_layout.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
-              <folding>
-                <element signature="e#40#55#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="368">
+              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/layouts/_layout.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/emails/send_result.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <state relative-caret-position="16">
+              <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -242,7 +151,6 @@
         <option value="$PROJECT_DIR$/database/migrations/2019_03_05_152916_create_viewings_table.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/BannerController.php" />
         <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/emails/send_result.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/banner/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/dashboard.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/DashboardController.php" />
@@ -257,6 +165,7 @@
         <option value="$PROJECT_DIR$/resources/views/emails/default.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/LinkController.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/_layout.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/emails/send_result.blade.php" />
       </list>
     </option>
   </component>
@@ -379,6 +288,13 @@
               <item name="untitled6" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled6" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="emails" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled6" type="b2602c69:ProjectViewProjectNode" />
@@ -519,17 +435,17 @@
       <workItem from="1552380552907" duration="28429000" />
       <workItem from="1552457009829" duration="27460000" />
       <workItem from="1552658502973" duration="598000" />
-      <workItem from="1552759001668" duration="218000" />
+      <workItem from="1552759001668" duration="1048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105223000" />
+    <option name="totallyTimeSpent" value="105922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="47" width="1823" height="947" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910554" visible="true" weight="0.20304568" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910554" visible="true" weight="0.20304568" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" sideWeight="0.5008944" side_tool="true" weight="0.2619491" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -544,7 +460,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24607961" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24607961" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -711,13 +627,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/emails/send_result.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -819,6 +728,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/emails/send_result.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
